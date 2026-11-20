@@ -2,6 +2,8 @@
 
 [![Build Status](https://github.com/microsoft/openvmm/actions/workflows/openvmm-ci.yaml/badge.svg?branch=main)](https://github.com/microsoft/openvmm/actions/workflows/openvmm-ci.yaml)
 
+It is a fork of Microsoft's OpenVMM designed to add Windows 10 support.
+
 OpenVMM is a modular, cross-platform Virtual Machine Monitor (VMM), written in
 Rust.
 
